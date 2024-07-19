@@ -12,7 +12,7 @@ const Navbar = () => {
 
           <NavLink to="/">
             <div className="ml-6">
-              <img src="../logo1.jpeg" 
+              <img src="../logo2.jpeg" 
               alt="" width="80px" height="80px" />
             </div>
           </NavLink>
