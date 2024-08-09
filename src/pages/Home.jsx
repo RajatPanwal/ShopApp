@@ -3,7 +3,7 @@ import Product from "../components/Product";
 import Spinner from "../components/Spinner";
 
 const Home = () => {
-  const API_URL = "https://fakestoreapi.com/products/1";
+  const API_URL = "https://fakestoreapi.in/api/products";
   const [loading, setLoading] = useState(false);
 
   // all data is stored in post variable
